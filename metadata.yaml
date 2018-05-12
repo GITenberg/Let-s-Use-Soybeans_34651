@@ -1,0 +1,30 @@
+_repo: Let-s-Use-Soybeans_34651
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: University of Illinois (Urbana-Champaign campus). Extension Service
+      in Agriculture and Home Economics
+    aliases:
+    - University of Illinois (Urbana-Champaign campus). Agricultural Extension Service
+    - University of Illinois (Urbana-Champaign campus). College of Agriculture. Extension
+      Service in Agriculture and Home Economics
+    gutenberg_agent_id: '41902'
+    url: http://www.gutenberg.org/2009/agents/41902
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2010-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking (Soybeans)'
+title: Let's Use Soybeans
+url: http://www.gutenberg.org/ebooks/34651
